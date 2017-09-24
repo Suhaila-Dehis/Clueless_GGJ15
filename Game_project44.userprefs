@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\groundmover.cs">
+    <Files>
+      <File FileName="Assets\scenes\movecam.cs" Line="18" Column="22" />
+      <File FileName="Assets\scripts\characterMove.cs" Line="66" Column="30" />
+      <File FileName="Assets\scripts\tryagain.cs" Line="14" Column="2" />
+      <File FileName="Assets\scripts\tryagainjungle.cs" Line="23" Column="32" />
+      <File FileName="Assets\scenes\enemy.cs" Line="8" Column="2" />
+      <File FileName="Assets\scenes\movement.cs" Line="24" Column="52" />
+      <File FileName="Assets\scripts\BackMover.cs" Line="17" Column="26" />
+      <File FileName="Assets\scripts\groundmover.cs" Line="4" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

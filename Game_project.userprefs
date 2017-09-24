@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scenes\movement.cs">
+    <Files>
+      <File FileName="Assets\scripts\landing.cs" Line="17" Column="30" />
+      <File FileName="Assets\scripts\plane.cs" Line="15" Column="4" />
+      <File FileName="Assets\scripts\puzzel.cs" Line="292" Column="32" />
+      <File FileName="Assets\scenes\movecam.cs" Line="16" Column="20" />
+      <File FileName="Assets\scripts\BackMover.cs" Line="14" Column="42" />
+      <File FileName="Assets\scenes\movement.cs" Line="13" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
